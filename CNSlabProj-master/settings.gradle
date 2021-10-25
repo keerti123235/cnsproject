@@ -1,0 +1,2 @@
+rootProject.name = "CNSApplication"
+include ':app'

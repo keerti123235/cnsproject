@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "722895602999",
+    "project_id": "cnslab-210ca",
+    "storage_bucket": "cnslab-210ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722895602999:android:4ea4ecb76791f0f61146b2",
+        "android_client_info": {
+          "package_name": "com.example.cnsapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722895602999-sjt5qd10q4vddqmmg9llt2a29ubjdako.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cnsapplication",
+            "certificate_hash": "58007490bc9c14daf50ba9f8596dd942a442d7aa"
+          }
+        },
+        {
+          "client_id": "722895602999-tnsegbvlilf63nf1965b80kv3kgd0kb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSvLoPmH65UFcLKgvyVi6R3OUKcSljkRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722895602999-tnsegbvlilf63nf1965b80kv3kgd0kb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
